@@ -1,7 +1,8 @@
 # Hi, I'm Shifa Naqvi 👋
 
 Frontend developer (React / Next.js / TypeScript) with internship experience building
-role-based dashboards, auth flows, and API-driven UIs. MCA '25, RTU (9.2 CGPA).
+role-based dashboards, auth flows, and API-driven UIs. 
+MCA '25, RTU (9.2 CGPA).
 Currently open to **frontend / SDE roles — Bengaluru or remote**.
 
 ## 🔨 What I've built
