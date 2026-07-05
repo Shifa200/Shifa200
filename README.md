@@ -19,6 +19,4 @@ Currently open to **frontend / SDE roles — Bengaluru or remote**.
 
 ## 📫 Reach me
 [Email](mailto:shifa20naqvi@gmail.com) · [LinkedIn](https://linkedin.com/in/shifa-naqvi)
-```
-
 ---
